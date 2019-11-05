@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ssui-hw6/static/css/main.e580cf6c.chunk.css",
+    "main.js": "/ssui-hw6/static/js/main.4ff19c21.chunk.js",
+    "main.js.map": "/ssui-hw6/static/js/main.4ff19c21.chunk.js.map",
+    "runtime-main.js": "/ssui-hw6/static/js/runtime-main.f93c2361.js",
+    "runtime-main.js.map": "/ssui-hw6/static/js/runtime-main.f93c2361.js.map",
+    "static/js/2.27ddf2fd.chunk.js": "/ssui-hw6/static/js/2.27ddf2fd.chunk.js",
+    "static/js/2.27ddf2fd.chunk.js.map": "/ssui-hw6/static/js/2.27ddf2fd.chunk.js.map",
+    "index.html": "/ssui-hw6/index.html",
+    "precache-manifest.4578c25df785c05b6fbd635944f39af3.js": "/ssui-hw6/precache-manifest.4578c25df785c05b6fbd635944f39af3.js",
+    "service-worker.js": "/ssui-hw6/service-worker.js",
+    "static/css/main.e580cf6c.chunk.css.map": "/ssui-hw6/static/css/main.e580cf6c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f93c2361.js",
+    "static/js/2.27ddf2fd.chunk.js",
+    "static/css/main.e580cf6c.chunk.css",
+    "static/js/main.4ff19c21.chunk.js"
+  ]
+}
